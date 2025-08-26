@@ -1,0 +1,12 @@
+/**
+ * Agenda
+ * -------------------
+ *  -  what is js
+ *  -  where to js code written
+ *  -  variables
+ *  -- datatypes
+ *  -- Operators
+ *  -- Control Flow
+ *  -  Communication with user
+ *
+ */
