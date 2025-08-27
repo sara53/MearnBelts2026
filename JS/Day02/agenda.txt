@@ -1,0 +1,13 @@
+== functions 
+    -- built in functions
+    -- user defined functions
+        -- function statement (declaration)
+        -- function expression
+        -- callback function 
+        -- IIFE
+
+== Hoisting 
+
+== Array 
+
+== String
