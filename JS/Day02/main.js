@@ -121,3 +121,54 @@
 // 		console.log("CB 2");
 // 	}
 // );
+/** length
+ * ---------------
+ *  == push
+ *  == unshift
+ *  == pop
+ *  == shift
+ *  == splice ()
+ *  == slice VS Substring
+ *  == concat
+ *  == reverse
+ *  == join
+ *  == sort
+ */
+// var arr = ["mona", "ahmed", 10, 20, true]; //5
+
+// 20 30 = negative
+// 40 -20 -- positive
+// 40-20
+// var arr = [545, 20, 80, 1, 30, 15, 68]; //5
+
+// arr.sort(function () {
+// 	// sort
+// });
+// var result = arr.join("===");
+// arr.reverse();
+// var result = arr.concat(["hello", "dotnet"]);
+// var result = arr.slice;
+
+// arr.shift();
+// arr.shift();
+// arr.shift();
+// var result = arr.pop();
+// console.log(result);
+// arr.pop();
+// arr.pop();
+//  arr.push("angular");
+// console.log(result);
+// arr.unshift("alaa");
+// arr.unshift("Hoda");
+// arr.push("Angular");
+// arr.push("React");
+
+// console.log(arr);
+// for (var i = 0; i < arr.length; i++) {
+// 	console.log(arr[i]);
+// }
+// // set
+// arr[0] = "Ola";
+
+// // get
+// console.log(arr[9]);
