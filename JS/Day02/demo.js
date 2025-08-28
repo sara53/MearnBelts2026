@@ -50,3 +50,13 @@
 // var x = "ahmed"; // demha
 
 // console.log(x.split("").reverse().join(""));
+
+// iTI
+/**
+ *
+ * iTI --> yes --> not pla
+ *      --> no --> pla
+ *
+ * hoda -- --> not
+ *      -- -- not
+ */
