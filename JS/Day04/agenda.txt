@@ -1,0 +1,53 @@
+== DOM 
+    - document object model
+
+== How to select element from DOM
+
+/** hot to change content
+ * -----------------------------------
+ *     == innerText
+ *     == innerHTML
+ *     == textContent (search)
+ * ----------------inputs---------------
+ *     == value
+ *     == checked
+ */
+/**
+ *  (object)
+ *   -- get
+ *   -- set
+ *  */
+
+== how to change content for an element in dom
+
+
+== How to change style
+
+/** How to change Style
+ * ---------------------------
+ * == style
+ * == className
+ * == classList
+ *  -- add
+ *  -- remove
+ *  -- toggle
+ *
+ */
+
+== how to deal with attributes
+/**
+ * == getAttribute
+ * == setAttribute
+ * == hasAttribute
+ * == removeAttribute
+ */
+
+== Create Any element - Remove
+
+=========================================
+== Events
+    - add attribute
+
+    == Board Link
+
+    https://miro.com/app/board/uXjVL6J0XhY=/?share_link_id=513338945597
