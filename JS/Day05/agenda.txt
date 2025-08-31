@@ -1,0 +1,13 @@
+
+== Events
+    == add attribute
+    == attach function
+    == add eventListener
+
+
+== BOM (Browser Object Model)
+    -- window
+    -- screen
+    -- navigator
+    -- history
+    -- location
